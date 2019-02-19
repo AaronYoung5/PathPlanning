@@ -9,7 +9,7 @@ tracknum = '2';
 numofpoints = 100;
 algorithmToRun = 'normalFromMidPoint';
 
-track = Track2(tracknum,numofpoints,algorithmToRun);
+track = Track(tracknum,numofpoints,algorithmToRun);
 
 if true
     if false
